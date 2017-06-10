@@ -1,0 +1,16 @@
+{
+  "name": "nodexbars",
+  "version": "1.0.0",
+  "description": "Implement node, express and handlebars",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "express-handlebars": "*"
+  },
+  "author": "radin reth",
+  "license": "ISC"
+}
